@@ -1,5 +1,6 @@
 # thaana-latin-field
 This Nova Package allow you to use Nova field for thaana latin conversion
+Please note that this package is still testing. The latin translation may not be perfect
 
 ## Installation
 ```
