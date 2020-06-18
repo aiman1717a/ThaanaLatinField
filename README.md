@@ -2,6 +2,8 @@
 This Nova Package allow you to use Nova field for thaana latin conversion
 Please note that this package is still testing. The latin translation may not be perfect
 
+![image](https://user-images.githubusercontent.com/36910126/85003733-768e1100-b10b-11ea-95d5-c34f7ab34e33.png)
+
 ## Installation
 ```
 composer require aiman/thaana-latin-field
