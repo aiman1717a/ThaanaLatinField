@@ -4,7 +4,7 @@
             <input
                 :id="field.name"
                 type="text"
-                class="w-full form-control form-input form-input-bordered rtl"
+                class="w-full form-control form-input form-input-bordered"
                 :class="errorClasses"
                 :placeholder="field.name"
                 v-model="value"
@@ -302,9 +302,3 @@ export default {
     }
 }
 </script>
-
-<style>
-    .rtl{
-        direction: rtl;
-    }
-</style>
