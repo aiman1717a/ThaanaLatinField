@@ -689,7 +689,7 @@ var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = [
                 "އާ": "aa",
                 "އަ": "a",
                 "އީ": "ee",
-                "އި": "e",
+                "އި": "i",
                 "އޫ": "oo",
                 "އު": "o",
                 "އޯ": "oa",
